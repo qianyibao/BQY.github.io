@@ -1,56 +1,64 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "鲍志强 - 学术主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## 个人简介
+中共党员，拥有华南师范大学软件工程博士学位，具备1年金融AI行业工作经验（恒生电子算法组长），专注于**大模型优化、智能体技术、金融AI应用**等研究方向。擅长大模型微调、RAG智能问答、跨模态学习等核心技术，主导多个金融AI项目落地，发表SCI一区/二区论文5篇，具备算法研究、团队管理与项目交付的综合能力。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 核心优势
+- **技术栈**：大模型微调（Verl框架）、智能体（Agent）、RAG检索、Python/Java开发、金融数据治理
+- **项目经验**：主导金融软件研发提效系列项目，累计创造540万+商业价值，研发效率提升72%
+- **学术成果**：SCI一区论文3篇、二区论文2篇，涵盖神经网络蒸馏、目标识别、跨模态学习等领域
+- **行业影响**：撰写金融AI行业标准与白皮书，推动智能体工具标准化落地
 
-<!-- A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## 教育背景
+| 时间 | 院校 | 专业 | 学位 |
+|------|------|------|------|
+| 2021.09 - 2024.06 | 华南师范大学计算机学院 | 软件工程 | 博士 |
+| 2018.09 - 2021.06 | 华南师范大学计算机学院 | 软件工程 | 硕士 |
+| 2014.09 - 2018.06 | 九江学院信息学院 | 计算机科学与技术 | 学士 |
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 工作经历
+### 恒生电子股份有限公司（2024.07 - 2025.09）
+**算法组长** | 全球金融科技百强（2024年亚洲第一）
+- 负责金融AI前沿技术战略研判，推动生成式AI、大模型在智能客服、研发提效等核心业务落地
+- 主导算法团队建设，形成大模型训练、金融数据治理等技术积累，构建跨部门协作机制
+- 撰写人工智能技术白皮书与行业标准，强化团队在金融AI领域的技术话语权
+- 管控项目全生命周期，保障进度、成本、质量三维度达标
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## 代表性项目
+### 金融软件系统提效项目（二期）（2025.03 - 2025.08）
+**算法组长**
+- 技术路线：基于大模型微调+智能体技术，设计"检索智能体"架构，构建10万条智能体运行轨迹
+- 核心创新：集成代码库调用图，提出"检索可疑文件->翻阅附近文件"流程，动态摘要优化上下文长度
+- 性能指标：召回率92%、精确率84%，平均检索耗时<6s，研发效率提升至72%
+- 成果输出：项目上线交付，主导《面向金融智能体的工具标准行业研究报告》，撰写SCI一区目标论文
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 金融软件系统提效项目（一期）（2024.09 - 2025.03）
+**算法组长**
+- 技术路线：制定"需求映射代码文件名"大模型微调方案，构建30万条"公开+垂域"标注数据
+- 核心创新：设计"模型生成->模糊查找"检索架构，集成代码调用图
+- 性能指标：召回率82%、精确率75%，平均检索耗时<4s，研发效率提升60%
+- 成果输出：带领6人团队完成交付，累计收付款540万元，获内部业务部门多次好评
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## 学术成果
+### 发表论文
+1. **2025** - 一作. *Improving Knowledge Distillation via Cross-Modal Insights from CLIP* [ICASSP, 等同于SCI二区]
+2. **2024** - 二作. *A Multi-Level Relation-Aware Transformer Model for Occluded Person Re-Identification* [SCI二区, NN]
+3. **2023** - 一作. *A Lightweight Block with Information Flow Enhancement for Convolutional Neural Networks* [SCI一区, TCSVT]
+4. **2023** - 一作. *Post-distillation via Neural Resuscitation* [SCI一区, TMM]
+5. **2023** - 一作. *Teacher-Student Complementary Sample Contrastive Distillation* [SCI二区, NN]
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## 荣誉奖项
+- 工作期间：恒生电子"优秀技术组长"
+- 在校期间：校级"优秀学生干部"多次、院级羽毛球联赛男子单打一等奖、院级"师生杯"羽毛球团体赛第二名
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+## 联系方式
+- 邮箱：zhiqiangbao1995@163.com
+- 电话：13535193151
+- 现居住地：杭州萧山
