@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-clip-knowledge-distillation
 excerpt: 'Enhancing knowledge distillation performance through cross-modal insights from CLIP, exploring the application value of cross-modal features in knowledge distillation tasks'
-date: 2025
+date: 2025-01-01
 venue: 'ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, equivalent to SCI Q2)'
 citation: 'Your Name (2025). "Improving Knowledge Distillation via Cross-Modal Insights from CLIP." <i>ICASSP</i>.'
 ---
