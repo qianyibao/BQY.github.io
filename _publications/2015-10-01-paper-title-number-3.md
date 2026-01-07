@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Federated Learning for Privacy-Preserving Image Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-03-01-federated-image-classification
+excerpt: 'Federated learning-based image classification method for privacy preservation, addressing the balance between data privacy and model performance'
+date: 2023
+venue: 'Pattern Recognition (SCI Q1, IF=8.5)'
+citation: 'Your Name (2025). "Federated Learning for Privacy-Preserving Image Classification." <i>Pattern Recognition</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A distributed image classification framework based on federated learning is proposed, which improves the generalization ability of classification models without leaking raw data through local training and global aggregation.

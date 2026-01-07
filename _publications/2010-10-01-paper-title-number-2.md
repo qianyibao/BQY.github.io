@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Lightweight Network Design for Edge Computing Based on Attention Mechanism"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-02-01-edge-attention-lightweight
+excerpt: 'Lightweight network design for edge computing based on attention mechanism, balancing model efficiency and accuracy'
+date: 2024
+venue: 'IEEE Internet of Things Journal (SCI Q1, IF=10.2)'
+citation: 'Your Name (2025). "Lightweight Network Design for Edge Computing Based on Attention Mechanism." <i>IEEE Internet of Things Journal</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Aiming at the resource constraints of edge computing devices, a network architecture integrating lightweight attention modules is designed, which maintains high accuracy while ensuring inference speed.

@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Multi-Scale Feature Fusion for Medical Image Segmentation"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-05-01-medical-multiscale-segmentation
+excerpt: 'Multi-scale feature fusion method for medical image segmentation, improving the segmentation accuracy of lesion regions'
+date: 2023
+venue: 'Medical Image Analysis (SCI Q1, IF=11.5)'
+citation: 'Your Name (2025). "Multi-Scale Feature Fusion for Medical Image Segmentation." <i>Medical Image Analysis</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+An adaptive multi-scale feature fusion module is proposed to effectively capture lesion features of different scales in medical images, solving the problems of missed detection and blurred edges in small lesion segmentation.

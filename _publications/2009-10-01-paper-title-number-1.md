@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Improving Knowledge Distillation via Cross-Modal Insights from CLIP"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-01-01-clip-knowledge-distillation
+excerpt: 'Enhancing knowledge distillation performance through cross-modal insights from CLIP, exploring the application value of cross-modal features in knowledge distillation tasks'
+date: 2025
+venue: 'ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, equivalent to SCI Q2)'
+citation: 'Your Name (2025). "Improving Knowledge Distillation via Cross-Modal Insights from CLIP." <i>ICASSP</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This study introduces cross-modal feature supervision into the knowledge distillation task by leveraging the cross-modal learning capability of the CLIP model, effectively improving the performance of lightweight models.

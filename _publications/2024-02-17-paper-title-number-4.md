@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Adversarial Robustness Enhancement for Vision Transformers"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-04-01-vit-adversarial-robustness
+excerpt: 'Adversarial robustness enhancement method for Vision Transformers, improving the model''s defense capability against adversarial attacks'
+date: 2023
+venue: 'Neural Networks (SCI Q1, IF=7.8)'
+citation: 'Your Name (2025). "Adversarial Robustness Enhancement for Vision Transformers." <i>Neural Networks</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Aiming at the vulnerability of Vision Transformers to adversarial examples, an enhancement strategy combining adversarial training and feature regularization is designed, which significantly improves the robustness of the model.
