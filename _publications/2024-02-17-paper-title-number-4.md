@@ -6,7 +6,7 @@ permalink: /publication/2023-02-01-post-distillation-tmm
 # excerpt: 'A post-distillation method based on neural resuscitation to further improve the performance of distilled models'
 date: 2023-02-01
 venue: 'IEEE Transactions on Multimedia (SCI Q1, Abbreviation: TMM)'
-citation: 'BAO zhi qiang (2025). <i>IEEE Transactions on Multimedia</i>.'
+citation: 'BAO zhi qiang (2023). <i>IEEE Transactions on Multimedia</i>.'
 ---
 
 This paper proposes a post-distillation approach called neural resuscitation, which refines the distilled model by recovering underutilized features, leading to better performance.
