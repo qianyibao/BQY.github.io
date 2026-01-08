@@ -1,7 +1,7 @@
 ---
 title: "Improving Knowledge Distillation via Cross-Modal Insights from CLIP"
 collection: publications
-category: Conference Papers  # ICASSP是会议
+category: Conference Papers
 permalink: /publication/2025-01-01-clip-knowledge-distillation
 excerpt: "Enhance knowledge distillation by leveraging cross-modal insights from CLIP"
 date: 2025-01-01

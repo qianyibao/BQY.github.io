@@ -7,6 +7,7 @@ excerpt: "A multi-level relation-aware transformer model for occluded person re-
 date: 2024-01-01
 venue: "Neural Networks (SCI Q2, Abbreviation: NN)"
 citation: "Co-author; 鲍志强 (2024). \"A Multi-Level Relation-Aware Transformer Model for Occluded Person Re-Identification.\" <i>Neural Networks</i>."
+layout: publication
 ---
 
 Published in Neural Networks (SCI Q2, Abbreviation: NN), 2024

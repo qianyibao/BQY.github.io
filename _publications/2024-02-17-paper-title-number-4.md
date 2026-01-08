@@ -7,6 +7,7 @@ excerpt: "Post-distillation via neural resuscitation"
 date: 2023-02-01
 venue: "IEEE Transactions on Multimedia (SCI Q1, Abbreviation: TMM)"
 citation: "鲍志强 (2023). \"Post-distillation via Neural Resuscitation.\" <i>IEEE Transactions on Multimedia</i>."
+layout: publication
 ---
 
 Published in IEEE Transactions on Multimedia (SCI Q1, Abbreviation: TMM), 2023
