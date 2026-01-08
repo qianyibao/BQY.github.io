@@ -6,6 +6,7 @@ permalink: /publication/2024-01-01-occluded-person-reid
 date: 2024-01-01
 venue: 'Neural Networks (SCI Q2, Abbreviation: NN)'
 citation: 'BAO zhi qiang (2024). <i>Neural Networks</i>.'
+excerpt: ''
 ---
 
 This paper proposes a multi-level relation-aware transformer model, which effectively addresses the challenge of occluded person re-identification by capturing hierarchical relational features.
