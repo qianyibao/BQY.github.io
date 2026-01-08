@@ -1,12 +1,14 @@
 ---
-title: "Federated Learning for Privacy-Preserving Image Classification"
+title: "A Lightweight Block with Information Flow Enhancement for Convolutional Neural Networks"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-03-01-federated-image-classification
-excerpt: 'Federated learning-based image classification method for privacy preservation, addressing the balance between data privacy and model performance'
+category: Journal Articles
+permalink: /publication/2023-01-01-lightweight-block-tcsvt
+excerpt: "A lightweight block with information flow enhancement for convolutional neural networks"
 date: 2023-01-01
-venue: 'Pattern Recognition (SCI Q1, IF=8.5)'
-citation: '鲍志强 (2025). "Federated Learning for Privacy-Preserving Image Classification." <i>Pattern Recognition</i>.'
+venue: "IEEE Transactions on Circuits and Systems for Video Technology (SCI Q1, Abbreviation: TCSVT)"
+citation: "鲍志强 (2023). \"A Lightweight Block with Information Flow Enhancement for Convolutional Neural Networks.\" <i>IEEE Transactions on Circuits and Systems for Video Technology</i>."
 ---
 
-A distributed image classification framework based on federated learning is proposed, which improves the generalization ability of classification models without leaking raw data through local training and global aggregation.
+Published in IEEE Transactions on Circuits and Systems for Video Technology (SCI Q1, Abbreviation: TCSVT), 2023
+
+A lightweight block with information flow enhancement for convolutional neural networks

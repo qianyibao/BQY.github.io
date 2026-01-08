@@ -1,12 +1,14 @@
 ---
-title: "Lightweight Network Design for Edge Computing Based on Attention Mechanism"
+title: "A Multi-Level Relation-Aware Transformer Model for Occluded Person Re-Identification"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-02-01-edge-attention-lightweight
-excerpt: 'Lightweight network design for edge computing based on attention mechanism, balancing model efficiency and accuracy'
+category: Journal Articles
+permalink: /publication/2024-01-01-occluded-person-reid
+excerpt: "A multi-level relation-aware transformer model for occluded person re-identification"
 date: 2024-01-01
-venue: 'IEEE Internet of Things Journal (SCI Q1, IF=10.2)'
-citation: '鲍志强 (2025). "Lightweight Network Design for Edge Computing Based on Attention Mechanism." <i>IEEE Internet of Things Journal</i>.'
+venue: "Neural Networks (SCI Q2, Abbreviation: NN)"
+citation: "Co-author; 鲍志强 (2024). \"A Multi-Level Relation-Aware Transformer Model for Occluded Person Re-Identification.\" <i>Neural Networks</i>."
 ---
 
-Aiming at the resource constraints of edge computing devices, a network architecture integrating lightweight attention modules is designed, which maintains high accuracy while ensuring inference speed.
+Published in Neural Networks (SCI Q2, Abbreviation: NN), 2024
+
+A multi-level relation-aware transformer model for occluded person re-identification

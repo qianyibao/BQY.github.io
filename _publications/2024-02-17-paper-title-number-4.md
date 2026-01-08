@@ -1,12 +1,14 @@
 ---
-title: "Adversarial Robustness Enhancement for Vision Transformers"
+title: "Post-distillation via Neural Resuscitation"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-04-01-vit-adversarial-robustness
-excerpt: 'Adversarial robustness enhancement method for Vision Transformers, improving the model''s defense capability against adversarial attacks'
-date: 2023-01-01
-venue: 'Neural Networks (SCI Q1, IF=7.8)'
-citation: '鲍志强 (2025). "Adversarial Robustness Enhancement for Vision Transformers." <i>Neural Networks</i>.'
+category: Journal Articles
+permalink: /publication/2023-02-01-post-distillation-tmm
+excerpt: "Post-distillation via neural resuscitation"
+date: 2023-02-01
+venue: "IEEE Transactions on Multimedia (SCI Q1, Abbreviation: TMM)"
+citation: "鲍志强 (2023). \"Post-distillation via Neural Resuscitation.\" <i>IEEE Transactions on Multimedia</i>."
 ---
 
-Aiming at the vulnerability of Vision Transformers to adversarial examples, an enhancement strategy combining adversarial training and feature regularization is designed, which significantly improves the robustness of the model.
+Published in IEEE Transactions on Multimedia (SCI Q1, Abbreviation: TMM), 2023
+
+Post-distillation via neural resuscitation

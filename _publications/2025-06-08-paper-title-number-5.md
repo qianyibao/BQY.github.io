@@ -1,12 +1,14 @@
 ---
-title: "Multi-Scale Feature Fusion for Medical Image Segmentation"
+title: "Teacher-Student Complementary Sample Contrastive Distillation"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-05-01-medical-multiscale-segmentation
-excerpt: 'Multi-scale feature fusion method for medical image segmentation, improving the segmentation accuracy of lesion regions'
-date: 2023-01-01
-venue: 'Medical Image Analysis (SCI Q1, IF=11.5)'
-citation: '鲍志强 (2025). "Multi-Scale Feature Fusion for Medical Image Segmentation." <i>Medical Image Analysis</i>.'
+category: Journal Articles
+permalink: /publication/2023-03-01-ts-contrastive-distillation-nn
+excerpt: "Teacher-student complementary sample contrastive distillation"
+date: 2023-03-01
+venue: "Neural Networks (SCI Q2, Abbreviation: NN)"
+citation: "鲍志强 (2023). \"Teacher-Student Complementary Sample Contrastive Distillation.\" <i>Neural Networks</i>."
 ---
 
-An adaptive multi-scale feature fusion module is proposed to effectively capture lesion features of different scales in medical images, solving the problems of missed detection and blurred edges in small lesion segmentation.
+Published in Neural Networks (SCI Q2, Abbreviation: NN), 2023
+
+Teacher-student complementary sample contrastive distillation
