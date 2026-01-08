@@ -7,6 +7,7 @@ excerpt: "Enhance knowledge distillation by leveraging cross-modal insights from
 date: 2025-01-01
 venue: "ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, equivalent to SCI Q2)"
 citation: "鲍志强 (2025). \"Improving Knowledge Distillation via Cross-Modal Insights from CLIP.\" <i>ICASSP</i>."
+layout: publication
 ---
 
 Published in ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, equivalent to SCI Q2), 2025
